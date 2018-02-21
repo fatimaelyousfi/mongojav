@@ -1,12 +1,12 @@
-package dev.fatimaSpringBoot;
+package dev.monexemple;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FatimaSpringBootApplication {
+public class MongodbApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FatimaSpringBootApplication.class, args);
+		SpringApplication.run(MongodbApplication.class, args);
 	}
 }
